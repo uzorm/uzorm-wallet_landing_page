@@ -1,0 +1,184 @@
+*  {
+margin: 0;
+padding: 0;
+
+}
+
+header {
+    color: white;
+padding: 20px;
+display: flex;
+justify-content: space-between;
+justify-items: center;
+
+}
+body {
+    background-color: black;
+}
+#btn2 {
+    background-color: rgb(191, 140, 191);
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+#btn1 {
+    background-color: transparent;
+    padding: 5px 20px;
+    border: none;
+    border: radius 12px;
+    font: size 12px;
+    color: white
+
+
+}
+#hero {
+    padding: 30px;
+    justify-content: space-between;
+    display: flex;
+    justify-items: center;
+
+
+}
+#hero h1{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+
+}
+#hero span {
+    color: gray;
+
+
+}
+#hero button {
+    margin-top: 40px;
+    background-color: orange;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+
+}
+#sponsor {
+    padding: 30px 0px;
+
+}
+#dash-section {
+    padding: 30px;
+}
+#dash-container {
+    background-color: white;
+    border-radius: 20px;
+
+}
+#para {
+    column-gap: 3;
+    column-count: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.para {
+    margin: 70px;
+    text-align: center;
+    
+}
+
+#wallet {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-weight: 100;
+    font-size: x-large;
+    margin: 50px 40px;
+    border: 2opx;
+    padding: 60px 0px;
+    border-radius: 20px;
+    background-color: rgb(255, 182, 255);
+}
+
+#wallet img {
+    padding: 5cap 70cap 0cap 0cap;
+}
+
+#wallet p {
+    justify-content: baseline;
+    padding: 0cap 55cap 5cap 0cap;
+}
+#que {
+    color: white;
+    font-size: 35px;
+    padding: 30px;
+    margin-left: 50px;
+    
+
+}
+#contact {
+    color: white;
+    margin-left: 80px;
+}
+#live button {
+    background-color: yellow;
+    margin-left: 80px;
+    border-radius: 10px;
+    padding: 10px 40px;
+    margin: 40px;
+    
+    
+}
+#live h5 {
+    color: white;
+    margin-left: 80px;
+}
+
+#live img {
+    align-content: center;
+    
+    
+}
+#img {
+    padding: 50px;
+}
+#white {
+    color: white;
+    size: 30px;
+    padding: 20px;
+    display: inline;
+
+}
+#updates {
+    color: white;
+    margin-left: 900px;
+    
+    
+}
+
+#updates input {
+    border-radius: 10px;
+    background-color: rgb(48, 46, 46);
+    font-size: 15px;
+    padding: 8px;
+}
+
+span {
+    margin: 20px;
+    color: white;
+}
+
+#updates button {
+    
+    border-radius: 9px;
+    font-size: 15px;
+    background-color:rgb(244, 167, 244);
+    padding: 10px 40px;
+    margin: 40px;
+    
+    
+}
