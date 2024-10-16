@@ -103,13 +103,13 @@
         background-color: rgb(255, 182, 255);
     }
     
-    #wallet img {
-        padding: 5cap 70cap 0cap 0cap;
-    }
+    
+        
+    
     
     #wallet p {
         justify-content: baseline;
-        padding: 0cap 55cap 5cap 0cap;
+        
     }
     #que {
         color: white;
@@ -125,10 +125,9 @@
     }
     #live button {
         background-color: yellow;
-        margin-left: 80px;
         border-radius: 10px;
         padding: 10px 40px;
-        margin: 40px;
+        margin-left: 80px;
         
         
     }
@@ -178,7 +177,18 @@
         background-color:rgb(244, 167, 244);
         padding: 10px 40px;
         margin: 40px;
-        
-        
+        margin-top: 50px;
+          
+    }
+   
+    .bun{
+        margin-top: 250px;
     }
     
+    .down {
+        margin-top: 50px;
+    }
+
+    #que button {
+        margin-right: 50px;
+    }
